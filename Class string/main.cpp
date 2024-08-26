@@ -162,7 +162,7 @@ int main()
     setlocale(LC_ALL, "ru");
 
     MyString str("Super ");
-    MyString str2("World");
+    MyString str2("World!!");
 
     MyString result;
     result = str + str2;
